@@ -1,6 +1,6 @@
 {
-  "github_token": "YOUR_GITHUB_PERSONAL_ACCESS_TOKEN",
+  "github_token": "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",
   "repo_owner": "TFMSTYLE",
-  "repo_name": "Chat",
+  "repo_name": "Chatter",
   "file_path": "chat.json"
 }
