@@ -1,14 +1,5 @@
 [
-  {
-    "time": "2025-11-05 12:00:00",
-    "text": "Initial release of new tools."
-  },
-  {
-    "time": "2025-11-05 14:30:00",
-    "text": "Added landscape generator improvements."
-  },
-  {
-    "time": "2025-11-05 15:30:00",
-    "text": "Testing the log preview and refrsh functions just to see if this works.."
-  }
+  "2025-11-05 — Initial release of new tools.",
+  "2025-11-05 14:30:00 — Added landscape generator improvements.",
+  "2025-11-05 15:30:00 — Testing the log preview and refresh functions just to see if this works.."
 ]
