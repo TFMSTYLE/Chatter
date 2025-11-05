@@ -1,5 +1,3 @@
 [
-  { "time": "2025-11-05", "text": "Initial release of new tools." },
-  { "time": "2025-11-05 14:30:00", "text": "Added landscape generator improvements." },
-  { "time": "2025-11-05 15:30:00", "text": "Testing the log preview and refresh functions just to see if this works.." }
+  { "time": "2025-11-05", "text": "v1.0.0 - Initial release. This release includes 20 Generators and 4 Utility addons. The TFMSTYLE Addon Collection (addon) has an auto-update feature, open documentation (if available), Supporters tab section and detachable module option. For any issues, log them in the Report Issue section or in the documentation page (if available) under the issue tab on github. Cheers." }
 ]
