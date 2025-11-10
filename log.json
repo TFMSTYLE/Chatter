@@ -3,21 +3,10 @@
     "time": "2025-11-10",
     "lines": [
       { "type": "text", "text": "v1.0.0 - Initial release" },
-      { "type": "text", "text": "This release includes 20 Generators and 6 Utility addons." },
-      { "type": "text", "text": "The TFMSTYLE Addon Collection has an auto-update feature, documentation button for all addons, a supporters tab section, and detachable module option." },
-      { "type": "text", "text": "If you want to learn more, check out the link below:" },
-      { "type": "link", "text": "https://tfmstyle.com" }
-    ]
-  },
-  
-  {
-    "time": "2025-11-15",
-    "lines": [
-      { "type": "text", "text": "v1.0.1 - Minor update" },
-      { "type": "text", "text": "Fixed small UI issues and improved loading times." },
-      { "type": "text", "text": "Added new documentation button to the Chatter addon." },
-      { "type": "text", "text": "Learn more about this patch here:" },
-      { "type": "link", "text": "https://tfmstyle.com/chatter" }
+      { "type": "text", "text": "This release includes 20 Generators and 7 Utility addons." },
+      { "type": "text", "text": "I've spent the last couple weeks optimizing and testing the current addons and features, if you encounter any issues or have any requests be sure to let me know, i'll be implimeting more tools very soon. The Auto-updater is ON be default and can be disabled/enabled from the addon tab in the TFMSTYLE Addon Collection settings." },
+      { "type": "text", "text": "If you want more assets be sure to check out my gumroad page." },
+      { "type": "link", "text": "https://tfmstyle.gumroad.com" }
     ]
   }
 ]
