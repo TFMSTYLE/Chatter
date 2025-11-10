@@ -8,5 +8,16 @@
       { "type": "text", "text": "If you want to learn more, check out the link below:" },
       { "type": "link", "text": "https://tfmstyle.com" }
     ]
+  },
+  
+  {
+    "time": "2025-11-15",
+    "lines": [
+      { "type": "text", "text": "v1.0.1 - Minor update" },
+      { "type": "text", "text": "Fixed small UI issues and improved loading times." },
+      { "type": "text", "text": "Added new documentation button to the Chatter addon." },
+      { "type": "text", "text": "Learn more about this patch here:" },
+      { "type": "link", "text": "https://tfmstyle.com/chatter" }
+    ]
   }
 ]
