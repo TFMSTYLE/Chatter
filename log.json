@@ -4,11 +4,11 @@
     "lines": [
       { "type": "text", "text": "v1.0.0 - Initial release" },
       { "type": "text", "text": "Includes 20 Generators and 7 Utility addons." },
-      { "type": "text", "text": "" },
+      { "type": "text", "text": "-" },
       { "type": "text", "text": "I've spent the last couple weeks optimizing and testing the current addons and features, if you encounter any issues or have any requests be sure to let me know, i'll be implimeting more tools very soon, however for the next couple weeks i'll be focusing on adjusting a lot of slider values and start adding presets for more tools already present." },
-      { "type": "text", "text": "" },
+      { "type": "text", "text": "-" },
       { "type": "text", "text": "If you want to get more assets of mine be sure to check out my gumroad page and use the coupon code TFM15 to get 15% off your next purchase, cheers." },
-      { "type": "text", "text": "" },
+      { "type": "text", "text": "-" },
       { "type": "link", "text": "https://tfmstyle.gumroad.com" }
     ]
   }
