@@ -1,3 +1,12 @@
 [
-  { "time": "2025-11-10", "text": "v1.0.0 - Initial release. This release includes 20 Generators and 6 Utility addons. The TFMSTYLE Addon Collection has an auto-update feature, documentation button for all addons, a supporters tab section and detachable module option. Cheers." }
+  {
+    "time": "2025-11-10",
+    "lines": [
+      { "type": "text", "text": "v1.0.0 - Initial release" },
+      { "type": "text", "text": "This release includes 20 Generators and 6 Utility addons." },
+      { "type": "text", "text": "The TFMSTYLE Addon Collection has an auto-update feature, documentation button for all addons, a supporters tab section, and detachable module option." },
+      { "type": "text", "text": "If you want to learn more, check out the link below:" },
+      { "type": "link", "text": "https://tfmstyle.com" }
+    ]
+  }
 ]
